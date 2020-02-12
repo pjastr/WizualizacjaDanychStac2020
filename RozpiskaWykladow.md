@@ -9,6 +9,7 @@ Orientacyjne tematy i terminy wykładów:
 6-8. Numpy.
 
 9. Omówienienie koncepcji "tidy data". 
+
 9-10. Pandas.
 
 11-13. Matplotlib.
